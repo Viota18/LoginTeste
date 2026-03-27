@@ -1,0 +1,63 @@
+body {
+    margin:0;
+    text-align: center;
+    min-height: 100vh;
+    
+
+}
+
+header {
+    height: 80px;
+    background-color: rgb(173, 243, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.Container{
+
+    border: 1px solid black;
+    text-align: center;
+    background-color: rgb(173, 243, 255);
+    margin: 100px auto; 
+    width: 300px;
+    padding: 40px;
+    border-radius: 10px;
+    
+
+
+}
+
+
+
+.imagemGoogle{
+    height: 50px;
+    width:  50px;
+
+}
+
+.imagemWhastsapp{
+    height: 30px;
+    width:  30px;
+    border-radius: 50%;
+
+}
+
+
+footer{
+    height: 80px;
+    background-color: rgb(173, 243, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 370px;
+
+
+}
+
+
+.Corpo{
+    background-color: brown;
+    color: aliceblue;
+}
